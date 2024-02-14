@@ -1,0 +1,43 @@
+body {
+    background-color: #2a3e63;
+}
+
+.white-text{
+    color:azure;
+}
+
+.header{
+    font-size: 100px;
+}
+
+.bg{
+    background-color: #dbccd7;
+    border-radius: 10px;
+}
+
+.tableStyle{
+    text-align: center;
+}
+
+.button{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-right: 5px;
+}
+
+.white{
+    background-color: aliceblue;
+}
+
+.white:hover{
+    background-color: rgb(181, 180, 180);
+}
+
+.yellow{
+    background-color: rgb(212, 207, 103);
+}
+
+.yellow:hover{
+    background-color: rgb(176, 162, 67);
+}
